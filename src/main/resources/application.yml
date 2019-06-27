@@ -16,8 +16,3 @@ spring:
   # Spring properties in case you use different profiles
   profiles:
     active: dev
-
-security:
-   user:
-      name:  root
-      password: root
